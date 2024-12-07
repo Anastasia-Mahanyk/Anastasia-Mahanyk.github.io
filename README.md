@@ -1,6 +1,6 @@
 # Anastasia-Mahanyk.github.io
-<!DOCTYPE html>
 <html lang="uk">
+    <title>Резюме - Маханик Анастасія Костянтинівна</title>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
